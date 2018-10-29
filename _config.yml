@@ -1,1 +1,5 @@
+title:  Наша цель - сделать Joomla! CMS лучше
+description: [""]
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
