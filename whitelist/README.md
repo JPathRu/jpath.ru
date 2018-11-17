@@ -3,3 +3,6 @@
 
 ### [Joomla! Extensions Directory](https://extensions.joomla.org/)
 Официальный каталог расширений для Joomla
+
+### [JoomlArt](https://www.joomlart.com/)
+Разработчики шаблонов и расширений для Joomla
