@@ -6,3 +6,6 @@
 
 ### [JoomlArt](https://www.joomlart.com/)
 Разработчики шаблонов и расширений для Joomla
+
+### [YOOtheme](https://yootheme.com/)
+Разработчики шаблонов и расширений для Joomla
