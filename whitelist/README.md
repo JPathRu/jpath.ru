@@ -9,3 +9,6 @@
 
 ### [YOOtheme](https://yootheme.com/)
 Разработчики шаблонов и расширений для Joomla
+
+### [RSJoomla](https://www.rsjoomla.com/)
+Разработчики расширений и шаблонов для Joomla
