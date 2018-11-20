@@ -12,3 +12,6 @@
 
 ### [RSJoomla](https://www.rsjoomla.com/)
 Разработчики расширений и шаблонов для Joomla
+
+### [JoomlaWorks](https://www.joomlaworks.net/)
+Разработчики расширений и шаблонов для Joomla
