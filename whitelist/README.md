@@ -18,3 +18,6 @@
 
 ### [RocketTheme](https://rockettheme.com/)
 Разработчики шаблонов и расширений для Joomla
+
+### [NorrNext](https://www.norrnext.com/)
+Разработчики расширений для Joomla
