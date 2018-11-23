@@ -21,3 +21,6 @@
 
 ### [NorrNext](https://www.norrnext.com/)
 Разработчики расширений для Joomla
+
+### [RoundTheme](https://www.roundtheme.com)
+Разработчики шаблонов для Kunena, AcyMailing и JComments
