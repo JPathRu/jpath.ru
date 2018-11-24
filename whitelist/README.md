@@ -30,3 +30,6 @@
 
 ### [Akeeba Ltd](https://www.akeebabackup.com/)
 Разработчики расширений для Joomla
+
+### [StackIdeas](https://stackideas.com/)
+Разработчики расширений и шаблонов для Joomla
