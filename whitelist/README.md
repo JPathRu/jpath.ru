@@ -24,3 +24,6 @@
 
 ### [RoundTheme](https://www.roundtheme.com)
 Разработчики шаблонов для Kunena, AcyMailing и JComments
+
+### [IceTheme](https://www.icetheme.com/)
+Разработчики шаблонов для Joomla
