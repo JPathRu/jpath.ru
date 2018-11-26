@@ -1,5 +1,7 @@
 ## Белый список сайтов
-Список провернный сайтов, где можно купить/скачать расширения и шаблоны для Joomla!
+Список проверенных сайтов, где можно купить/скачать расширения и шаблоны для Joomla! CMS.
+
+Хотите добавить сайт в этот список? [Создайте Issue](https://github.com/RUJL/rujl.github.io/issues/new?template=whitelist.md).
 
 ### [Joomla! Extensions Directory](https://extensions.joomla.org/)
 Официальный каталог расширений для Joomla
