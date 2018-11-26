@@ -1,5 +1,5 @@
 ## Черный список сайтов
 Список сайтов, распостраняющих нелицензионные расширения *(варез)* для CMS Joomla!.
 
-* cmsheaven.org
-* all4joomla.com
+cmsheaven.org  
+all4joomla.com  
