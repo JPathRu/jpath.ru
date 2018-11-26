@@ -8,4 +8,5 @@ joomfans.com
 jtemplate.ru  
 null-script.ru  
 rutracker.org  
-prowebber.ru
+prowebber.ru  
+skladchina.biz
