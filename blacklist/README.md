@@ -1,6 +1,8 @@
 ## Черный список сайтов
 Список сайтов, распостраняющих нелицензионные расширения *(варез)* для CMS Joomla!.
 
+Хотите добавить сайт в этот список? [Создайте Issue](https://github.com/RUJL/rujl.github.io/issues/new?template=blacklist.md).
+
 cmsheaven.org  
 all4joomla.com  
 joomla-master.org  
