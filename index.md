@@ -28,4 +28,4 @@
 - [Список веб-мастеров](https://rujl.github.io/webmasters)
 
 Не забыли мы и про сайты, которые распостраняют нелицензионные расширения (варез).
-- [Чёрный список](https://rujl.github.io/whitelist)
+- [Чёрный список](https://rujl.github.io/blacklist)
