@@ -64,3 +64,6 @@
 
 ### [Яндекс Турбо для Joomla и Яндекс Дзен](https://jturbo.ru/)
 Расширение для Joomla Яндекс Турбо и Яндекс Дзен
+
+### [Яндекс Турбо для Joomla и Яндекс Дзен](https://fictionlabs.ru/)
+Расширения для Joomla, в том числе Google AMP и Yandex Turbo.
