@@ -35,3 +35,4 @@ joomshopping.pro
 joom-shopping.com  
 atempl.com  
 jmbest.ru  
+vmjoomla.ru  
