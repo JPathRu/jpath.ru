@@ -67,3 +67,6 @@
 
 ### [Яндекс Турбо для Joomla и Яндекс Дзен](https://fictionlabs.ru/)
 Расширения для Joomla, в том числе Google AMP и Yandex Turbo.
+
+### [Septdir Workshop](https://www.septdir.com/)
+Расширения для Joomla CMS.
