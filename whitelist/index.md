@@ -73,3 +73,6 @@
 
 ### [Septdir Workshop](https://www.septdir.com/)
 Расширения для Joomla CMS.
+
+### [ArenaM](https://arenam.ru/)
+Разработка расширений для Joomla - бесплатные и коммерческие.
