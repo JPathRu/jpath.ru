@@ -35,3 +35,4 @@ joom-shopping.com
 atempl.com  
 jmbest.ru  
 vmjoomla.ru  
+joomla-service.com // были случаи обмана заказчиков расширений, исполнитель пропадает после получения денег, блокирует контакты
