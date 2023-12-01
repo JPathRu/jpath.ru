@@ -34,7 +34,7 @@
 Разработчики расширений и шаблонов для Joomla
 
 ---
-#[RocketTheme](https://rockettheme.com/)
+[RocketTheme](https://rockettheme.com/)
 
 Разработчики шаблонов и расширений для Joomla
 
