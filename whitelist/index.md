@@ -51,11 +51,6 @@
 
 ---
 
-[IceTheme](https://www.icetheme.com/)
-
-Разработчики шаблонов для Joomla
-
----
 [Akeeba Ltd](https://www.akeebabackup.com/)
 
 Разработчики расширений для Joomla
